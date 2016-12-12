@@ -1,0 +1,1 @@
+start spiradiospectrumplaywin32.exe "radiostation_uzik-com.txt" -1 7200.0 0 0 450 350 220 1 0 0 24 spiradioplaywin32class spiradioplaywin32title "" ""

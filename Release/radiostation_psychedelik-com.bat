@@ -1,0 +1,1 @@
+start spiradiospectrumplaywin32.exe "radiostation_psychedelik-com.txt" -1 7200.0 1921 351 450 350 220 1 0 0 24

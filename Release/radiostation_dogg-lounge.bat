@@ -1,0 +1,1 @@
+start spiradiospectrumplaywin32.exe "radiostation_dogg-lounge.txt" -1 7200.0 2371 1 450 350 220 1 0 0 24

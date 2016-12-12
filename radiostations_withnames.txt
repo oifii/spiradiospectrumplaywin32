@@ -1,0 +1,44 @@
+frisky radio
+http://stream2.friskyradio.com:8000/frisky_mp3_hi
+
+traxx tech-minimal
+http://traxx020.ice.infomaniak.ch/traxx020-low
+
+frisky radio
+http://stream2.friskyradio.com:8000/frisky_mp3_hi
+
+traxx tech-minimal
+http://traxx020.ice.infomaniak.ch/traxx020-low
+
+frisky radio
+http://stream2.friskyradio.com:8000/frisky_mp3_hi
+
+traxx tech-minimal
+http://traxx020.ice.infomaniak.ch/traxx020-low
+
+frisky radio
+http://stream2.friskyradio.com:8000/frisky_mp3_hi
+
+traxx tech-minimal
+http://traxx020.ice.infomaniak.ch/traxx020-low
+
+psyradio * fm -  psytrance
+http://81.88.37.2:8030
+
+IbizaSonica
+http://159.253.145.177:8136
+
+uzik radio
+http://128.179.101.9:9010
+
+psychedelik.com
+http://88.191.145.93:8010
+
+frisky radio
+http://stream2.friskyradio.com:8000/frisky_mp3_hi
+
+dogglounge deep house radio
+http://66.165.171.60:8000
+
+ambient sleeping pill
+http://50.7.96.138:8666/stream

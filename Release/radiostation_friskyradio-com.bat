@@ -1,0 +1,1 @@
+start spiradiospectrumplaywin32.exe "radiostation_friskyradio-com.txt" -1 7200.0 1920 0 1920 1080 150 0 0 0 24 spiradioplaywin32class spiradioplaywin32title "" ""  3 2 40

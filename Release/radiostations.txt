@@ -1,0 +1,5 @@
+http://128.179.101.9:9010
+http://88.191.145.93:8010
+http://66.165.171.60:8000
+http://stream2.friskyradio.com:8000/frisky_mp3_hi
+http://50.7.96.138:8666/stream

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "spiradiospectrumplaywin32", "spiradiospectrumplaywin32.vcxproj", "{AD5E4A2A-1DEA-4E63-B783-B55E75DC0314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD5E4A2A-1DEA-4E63-B783-B55E75DC0314}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AD5E4A2A-1DEA-4E63-B783-B55E75DC0314}.Debug|Win32.Build.0 = Debug|Win32
+		{AD5E4A2A-1DEA-4E63-B783-B55E75DC0314}.Release|Win32.ActiveCfg = Release|Win32
+		{AD5E4A2A-1DEA-4E63-B783-B55E75DC0314}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
